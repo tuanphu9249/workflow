@@ -1,0 +1,5 @@
+#!/usr/bin/env zsh
+rsync -r -v /Users/tuanphu/.config/nvim/ nvim/
+rsync -r -v /Users/tuanphu/.tmux/ tmux/
+
+
